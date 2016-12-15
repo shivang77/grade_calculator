@@ -1,0 +1,17 @@
+body
+{
+background-color:orange;
+}
+thead
+{
+border-top: 0;
+    background-color: dimgrey;
+    color: seashell;
+}
+tbody{
+
+}
+table
+{
+border:solid slaty 2px;
+}

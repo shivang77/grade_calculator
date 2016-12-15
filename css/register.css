@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media(min-width:50px)
+{
+	h2
+	{
+		text-align:center;
+		color:#C90;
+		text-shadow:1px 1px 1px #FFFFFF;
+	}
+	
+.thumbnail
+{
+	
+}
+}
